@@ -1,13 +1,13 @@
 # StoreManagement
-Phần mềm quản lý cửa hàng trên Winform và SQL server
--Thư viện sử dụng: Giao diện Bunifu, CameraScanner: AforeView, Zxing
--Tài khoản sử dụng username: admin-password: 1
-Các chức năng chính:
--Dashboard thống kê kinh doanh,
--Bán hàng bằng quét mã sản phẩm qua web cam của máy tính
--In hóa đơn bán hàng
--Quản lý hàng hóa
--Quản lý lịch sử nhập, xuất hàng hóa
--Nhập hàng, bán hàng
--Quản lý khách hàng+tích điểm khách hàng thân thiết
--Quản lý tài khoản và phân quyền người dùng
+<h3>Phần mềm quản lý cửa hàng trên Winform và SQL server</h3>
+<br>-Thư viện sử dụng: Giao diện Bunifu, CameraScanner: AforeView, Zxing
+<br>-Tài khoản sử dụng username: admin-password: 1
+<br><b>Các chức năng chính:</b>
+<br>-Dashboard thống kê kinh doanh,
+<br>-Bán hàng bằng quét mã sản phẩm qua web cam của máy tính
+<br>-In hóa đơn bán hàng
+<br>-Quản lý hàng hóa
+<br>-Quản lý lịch sử nhập, xuất hàng hóa
+<br>-Nhập hàng, bán hàng
+<br>-Quản lý khách hàng+tích điểm khách hàng thân thiết
+<br>-Quản lý tài khoản và phân quyền người dùng
