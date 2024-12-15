@@ -11,3 +11,4 @@
 <br>-Nhập hàng, bán hàng
 <br>-Quản lý khách hàng+tích điểm khách hàng thân thiết
 <br>-Quản lý tài khoản và phân quyền người dùng
+VIDEO DEMO: https://drive.google.com/drive/folders/1KIDnGVNp0gQ1al4M2v43sPl6LsAn5mgq?usp=drive_link
